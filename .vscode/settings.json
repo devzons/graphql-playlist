@@ -1,0 +1,18 @@
+{
+  "editor.fontSize": 18,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Operator Mono Lig",
+  "editor.fontLigatures": true,
+  "typescript.format.semicolons": "remove",
+  "prettier.semi": false,
+  "workbench.colorTheme": "One Dark Pro",
+  "javascript.preferences.quoteStyle": "single",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "terminal.integrated.fontSize": 16,
+  "debug.console.fontSize": 16,
+  "markdown.preview.fontSize": 16,
+  "workbench.fontAliasing": "antialiased",
+  "editor.minimap.renderCharacters": false
+}
