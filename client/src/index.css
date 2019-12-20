@@ -58,6 +58,26 @@ form select {
   font-size: 0.9em;
 }
 
+form select {
+  appearance: none;
+  -o-appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 1px;
+  padding: 10px;
+}
+
+form select:after {
+  position: absolute;
+  content: '';
+  top: 14px;
+  right: 10px;
+  width: 0;
+  height: 0;
+}
+
 form button {
   color: white;
   font-size: 2em;
